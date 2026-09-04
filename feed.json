@@ -1,5 +1,13 @@
 [
   {
+    "build" : "20260904.1419",
+    "date" : "Fri, 04 Sep 2026 14:19:20 -0400",
+    "length" : 11355106,
+    "marketing" : "0.2",
+    "signature" : "7MSw0ZR\/mcqHuEMJZfZhL6Btvx\/cLub8gTcm+VLL4KNnMmXfEEFd25YdqeSiW7jAi38l1l+WugN9C0dUvTvFAA==",
+    "url" : "https:\/\/github.com\/aminosman\/kea-releases\/releases\/download\/v0.2-20260904.1419\/Kea-0.2-20260904.1419.zip"
+  },
+  {
     "build" : "20260904.1400",
     "date" : "Fri, 04 Sep 2026 14:00:59 -0400",
     "length" : 11354408,
